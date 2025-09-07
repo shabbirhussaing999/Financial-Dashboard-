@@ -91,3 +91,5 @@ Objective: Use Power BI’s forecasting models to predict future revenue and pro
 
 Impact: Helped management with proactive decision-making, budgeting, and resource allocation.
 
+![image alt](https://github.com/shabbirhussaing999/Financial-Dashboard-/blob/984fd2dae89e8910c33648c407ee5124d1e45e41/Financial%20Dashboard%20Executive%20Summary.png)
+
